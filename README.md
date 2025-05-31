@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15561294.svg)](https://doi.org/10.5281/zenodo.15561294)
+
 # Mars: A Sketchbook of the Red Planet
 
 A digital version of the book "Mars: A Sketchbook of the Red Planet" by Jay Rosen.
